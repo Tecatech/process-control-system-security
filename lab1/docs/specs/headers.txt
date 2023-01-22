@@ -1,0 +1,10 @@
+"Server: Apache"
+"Server: Gunicorn"
+"Server: Nginx"
+Strict-Transport-Security
+"Via: HTTP"
+"X-Frame-Options: ALLOW-FROM"
+"X-Powered-By: ASP.NET"
+"X-Powered-By: Express"
+"X-Powered-By: PHP"
+"X-XSS-Protection: 0"
